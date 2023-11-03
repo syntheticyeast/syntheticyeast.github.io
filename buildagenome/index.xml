@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Build-a-Genome on Synthetic Yeast 2.0</title>
+    <title>Build-a-Genome on Synthetic Yeast: Sc2.0</title>
     <link>https://syntheticyeast.github.io/buildagenome/</link>
-    <description>Recent content in Build-a-Genome on Synthetic Yeast 2.0</description>
+    <description>Recent content in Build-a-Genome on Synthetic Yeast: Sc2.0</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Nov 2021 07:28:24 -0500</lastBuildDate><atom:link href="https://syntheticyeast.github.io/buildagenome/index.xml" rel="self" type="application/rss+xml" />
@@ -13,16 +13,22 @@
       <pubDate>Thu, 11 Nov 2021 07:28:24 -0500</pubDate>
       
       <guid>https://syntheticyeast.github.io/buildagenome/bag-students/</guid>
-      <description>BAG Students Below are pictures of some of our Build-a-Genome students.</description>
+      <description>BAG Students Below are pictures of some of our Build-a-Genome students.
+Johns Hopkins University Build-a-Genome Loyola University Maryland Build-a-Genome Tianjin University Build-a-Genome Build-a-Genome Roster  Abena Apaw Amanda Deliere Alexander Yue Alex Lamb Alexandra McMillan Aaron Moore Adithya Murali Ang Tu Yijie Xu Ann Robinson Anvesh Annadanam Alex Rhee Arjun Khakhar Lojo, Amanda R. Ashley Cook Ashwyn Sharma Allison Suarez Mathew, Alvin T. Andy Wong Apurva Yeluru Allen Yu Allen Min Zhang Brian Capaldo Brittany Shalloo Yizhi Cai Calvin Chang Charlotte Emmanuelle Floria Chachrit Khunsriraksakul Chris Montoya Christina Jacob Christopher Fernandez Calvin Yao Loong Lau Lanzillotta, Cristina M.</description>
     </item>
     
     <item>
-      <title>BAG Team</title>
-      <link>https://syntheticyeast.github.io/buildagenome/bag-team/</link>
+      <title>BAG Instructors</title>
+      <link>https://syntheticyeast.github.io/buildagenome/bag-instructors/</link>
       <pubDate>Thu, 11 Nov 2021 07:27:45 -0500</pubDate>
       
-      <guid>https://syntheticyeast.github.io/buildagenome/bag-team/</guid>
-      <description>BAG Team Below are pictures of some of the people who helped put together and run the Build-a-Genome course.</description>
+      <guid>https://syntheticyeast.github.io/buildagenome/bag-instructors/</guid>
+      <description>BAG Instructors Below are pictures of some of the people who helped put together and run the Build-a-Genome course.
+Eric Cooper Currently Associate Professor of Biology, [Hartwick College]
+Jessica Dymond Currently Vice President, Technology, at B.Next / In-Q-Tel
+Heloise Muller Currently Tenured Research Scientist, l&amp;rsquo;Institut Curie
+Lisa Scheifele Currently Chair, Department of Biology, Loyola University Maryland
+Giovanni Stracquadanio Currently UKRI EPSRC Fellow and Senior Lecturer in Synthetic Biology, University of Edinburgh</description>
     </item>
     
     <item>
@@ -31,8 +37,8 @@
       <pubDate>Thu, 11 Nov 2021 07:24:55 -0500</pubDate>
       
       <guid>https://syntheticyeast.github.io/buildagenome/franchising-build-a-genome/</guid>
-      <description>Franchising Build a Genome Franchises of the Build-A-Genome course are now operational. In the United States, B-A-G is taught at Loyola University (Baltimore, MD) and Hartwick College, and courses are being planned at North Carolina State University. In China, Tianjin University has used the B-A-G China course to build synthetic DNA corresponding to chromosomes syn5 and syn10.
-If you are interested in discussing a franchise, please contact Dr. Karen Zeller kzeller;jhmi.</description>
+      <description>Franchising Build a Genome The Build-A-Genome course has been franchised at multiple institutions. In the United States, B-A-G is taught at Loyola University (Baltimore, MD) and Hartwick College, and courses are being planned at North Carolina State University. In China, Tianjin University has used the B-A-G China course to build synthetic DNA corresponding to chromosomes syn5 and syn10.
+If you are interested in leading a B-A-G course, the BAG Network can provide information.</description>
     </item>
     
     <item>
