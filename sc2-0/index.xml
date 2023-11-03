@@ -5,25 +5,15 @@
     <link>https://syntheticyeast.github.io/sc2-0/</link>
     <description>Recent content in Sc2.0 on Synthetic Yeast: Sc2.0</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 28 Oct 2021 00:25:53 -0400</lastBuildDate><atom:link href="https://syntheticyeast.github.io/sc2-0/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introduction</title>
-      <link>https://syntheticyeast.github.io/sc2-0/introduction/</link>
-      <pubDate>Thu, 28 Oct 2021 00:25:53 -0400</pubDate>
-      
-      <guid>https://syntheticyeast.github.io/sc2-0/introduction/</guid>
-      <description>Welcome to the synthetic yeast genome web site.
-This is the site where you will learn about our ongoing project to synthesize a designer eukaryotic genome – our assembly strategy and the design features of the new version of the Saccharomyces cerevisiae genome, which we fondly refer to as Sc2.0. Also, these pages describe the Build-A-Genome course, an innovative educational program to engage undergraduate students and others directly in the Sc2.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://syntheticyeast.github.io/sc2-0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ethics &amp; Governance</title>
       <link>https://syntheticyeast.github.io/sc2-0/ethicsandgovernance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://syntheticyeast.github.io/sc2-0/ethicsandgovernance/</guid>
-      <description>A number of guidelines have been proposed in response to the ethics issues, including safety, raised by synthetic biology. Currently, the NIH Guidelines for Research Involving Recombinant DNA Molecules serves as the main document guiding NIH-funded synthetic biology research. These guidelines focus on DNA synthesis companies as the primary point of intervention; other guidelines focus on the researchers themselves. Given the large, international and interdisciplinary nature of the Sc2.0 project, with participants in academia, the commercial sector, and the DIY community, we felt that it was important to address ethics and policy issues in a systematic way across all sites, while remaining sensitive to local and national regulation.</description>
+      <description>A number of guidelines have been proposed in response to the ethics issues, including safety, raised by synthetic biology. Our published commentary describes the balance between freedom and responsibility in synthetic genomics: Sliva et al 2015 Genetics.
+Currently, the NIH Guidelines for Research Involving Recombinant DNA Molecules serves as the main document guiding NIH-funded synthetic biology research. These guidelines focus on DNA synthesis companies as the primary point of intervention; other guidelines focus on the researchers themselves.</description>
     </item>
     
     <item>
@@ -55,13 +45,13 @@ This is the site where you will learn about our ongoing project to synthesize a 
     </item>
     
     <item>
-      <title>Sc2.0 Data</title>
+      <title>Sc2.0 Data and Finished Chromosomes</title>
       <link>https://syntheticyeast.github.io/sc2-0/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://syntheticyeast.github.io/sc2-0/data/</guid>
-      <description>We have successfully synthesized seven chromosomes. Check the following links to learn about details of the design and experiments of each finished chromosomes:
- synII synIII synV synVI synIXR synX synXII  </description>
+      <description>We have successfully synthesized seven chromosomes. Learn more about the design and experimental characterization of each finished chromosomes.
+ synII: Deep functional analysis of synII, Shen et al 2017 Science synIII: Total synthesis of a functional designer eukaryotic chromosome, Annaluru et al 2014 Science synV: &amp;ldquo;Perfect&amp;rdquo; designer chromosome V, Xie et al 2017 Science synVI: synVI and beyond, Mitchell et al Science 2017 synIXR: Synthetic chromosome arms function in yeast, Dymond et al 2011 Nature synX: Chemically synthetized chromosome X, Wu et al 2017 Science synXII: Engineering the ribosomal DNA in a megabase synthetic chromosome, Zhang et al 2017 Science  </description>
     </item>
     
     <item>
