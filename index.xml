@@ -1,52 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Synthetic Yeast 2.0</title>
+    <title>Saccharomyces cerevisiae 2.0 on Synthetic Yeast: Sc2.0</title>
     <link>https://syntheticyeast.github.io/</link>
-    <description>Recent content on Synthetic Yeast 2.0</description>
+    <description>Recent content in Saccharomyces cerevisiae 2.0 on Synthetic Yeast: Sc2.0</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Nov 2021 07:35:08 -0500</lastBuildDate><atom:link href="https://syntheticyeast.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Faqs</title>
-      <link>https://syntheticyeast.github.io/buildagenome/faqs/</link>
-      <pubDate>Thu, 11 Nov 2021 07:30:32 -0500</pubDate>
-      
-      <guid>https://syntheticyeast.github.io/buildagenome/faqs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Build a Genome Database</title>
-      <link>https://syntheticyeast.github.io/buildagenome/build-a-genome-database/</link>
-      <pubDate>Thu, 11 Nov 2021 07:29:27 -0500</pubDate>
-      
-      <guid>https://syntheticyeast.github.io/buildagenome/build-a-genome-database/</guid>
-      <description>Build-A-Genome Database Since 2010, Build-A-Genome has adopted a workflow management system to keep track of the progress of each student and record all the process information.
-When is Build A Genome offered?
-Currently Build A Genome is offered in the fall and spring semesters at Johns Hopkins University.
-Where is the course taught?
-The course currently meets in Levi ; the laboratory is in room 137
-When is the course taught?</description>
-    </item>
-    
-    <item>
-      <title>Bag Students</title>
+      <title>BAG Students</title>
       <link>https://syntheticyeast.github.io/buildagenome/bag-students/</link>
       <pubDate>Thu, 11 Nov 2021 07:28:24 -0500</pubDate>
       
       <guid>https://syntheticyeast.github.io/buildagenome/bag-students/</guid>
-      <description>BAG Students TODO: ADD PICTURES</description>
+      <description>BAG Students Below are pictures of some of our Build-a-Genome students.
+Johns Hopkins University Build-a-Genome Loyola University Maryland Build-a-Genome Tianjin University Build-a-Genome Build-a-Genome Roster  Abena Apaw Amanda Deliere Alexander Yue Alex Lamb Alexandra McMillan Aaron Moore Adithya Murali Ang Tu Yijie Xu Ann Robinson Anvesh Annadanam Alex Rhee Arjun Khakhar Lojo, Amanda R. Ashley Cook Ashwyn Sharma Allison Suarez Mathew, Alvin T. Andy Wong Apurva Yeluru Allen Yu Allen Min Zhang Brian Capaldo Brittany Shalloo Yizhi Cai Calvin Chang Charlotte Emmanuelle Floria Chachrit Khunsriraksakul Chris Montoya Christina Jacob Christopher Fernandez Calvin Yao Loong Lau Lanzillotta, Cristina M.</description>
     </item>
     
     <item>
-      <title>Bag Team</title>
-      <link>https://syntheticyeast.github.io/buildagenome/bag-team/</link>
+      <title>BAG Instructors</title>
+      <link>https://syntheticyeast.github.io/buildagenome/bag-instructors/</link>
       <pubDate>Thu, 11 Nov 2021 07:27:45 -0500</pubDate>
       
-      <guid>https://syntheticyeast.github.io/buildagenome/bag-team/</guid>
-      <description>#BAG Team
-TODO: ADD PICTURES</description>
+      <guid>https://syntheticyeast.github.io/buildagenome/bag-instructors/</guid>
+      <description>BAG Instructors Below are pictures of some of the people who helped put together and run the Build-a-Genome course.
+Eric Cooper Currently Associate Professor of Biology, [Hartwick College]
+Jessica Dymond Currently Vice President, Technology, at B.Next / In-Q-Tel
+Heloise Muller Currently Tenured Research Scientist, l&amp;rsquo;Institut Curie
+Lisa Scheifele Currently Chair, Department of Biology, Loyola University Maryland
+Giovanni Stracquadanio Currently UKRI EPSRC Fellow and Senior Lecturer in Synthetic Biology, University of Edinburgh</description>
     </item>
     
     <item>
@@ -55,12 +37,12 @@ TODO: ADD PICTURES</description>
       <pubDate>Thu, 11 Nov 2021 07:24:55 -0500</pubDate>
       
       <guid>https://syntheticyeast.github.io/buildagenome/franchising-build-a-genome/</guid>
-      <description>Franchising Build a Genome Franchises of the Build-A-Genome course are now operational. In the United States, B-A-G is taught at Loyola University (Baltimore, MD) and courses are being planned at North Crolina State University and Hartwick College. In China, Tianjin University has used the B-A-G China course to build synthetic DNA corresponding to chromosomes syn5 and syn10.
-If you are interested in discussing a franchise, please contact Dr. Karen Zeller kzeller;jhmi.</description>
+      <description>Franchising Build a Genome The Build-A-Genome course has been franchised at multiple institutions. In the United States, B-A-G is taught at Loyola University (Baltimore, MD) and Hartwick College, and courses are being planned at North Carolina State University. In China, Tianjin University has used the B-A-G China course to build synthetic DNA corresponding to chromosomes syn5 and syn10.
+If you are interested in leading a B-A-G course, the BAG Network can provide information.</description>
     </item>
     
     <item>
-      <title>Coursedescription</title>
+      <title>Course Description</title>
       <link>https://syntheticyeast.github.io/buildagenome/coursedescription/</link>
       <pubDate>Thu, 11 Nov 2021 07:22:15 -0500</pubDate>
       
@@ -69,31 +51,21 @@ If you are interested in discussing a franchise, please contact Dr. Karen Zeller
     </item>
     
     <item>
-      <title>Introduction</title>
-      <link>https://syntheticyeast.github.io/sc2-0/introduction/</link>
-      <pubDate>Thu, 28 Oct 2021 00:25:53 -0400</pubDate>
-      
-      <guid>https://syntheticyeast.github.io/sc2-0/introduction/</guid>
-      <description>Welcome to the synthetic yeast genome web site.
-This is the site where you will learn about our ongoing project to synthesize a designer eukaryotic genome – our assembly strategy and the design features of the new version of the Saccharomyces cerevisiae genome, which we fondly refer to as Sc2.0. Also, these pages describe the Build-A-Genome course, an innovative educational program to engage undergraduate students and others directly in the Sc2.</description>
-    </item>
-    
-    <item>
-      <title>6th Annual Sc2.0 Meeting, Singapore</title>
-      <link>https://syntheticyeast.github.io/posts/6thannual/</link>
+      <title>6th Annual Sc2.0 Meeting, Singapore (2017)</title>
+      <link>https://syntheticyeast.github.io/news/2017-06-13-6thannual/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://syntheticyeast.github.io/posts/6thannual/</guid>
+      <guid>https://syntheticyeast.github.io/news/2017-06-13-6thannual/</guid>
       <description>The Synthetic Yeast Genome Project (Sc2.0) is the world’s first synthetic eukaryotic genome project that aims to create a novel, rationalized version of the genome of the yeast species Saccharomyces cerevisiae. In a truly global collaborative effort, research teams across the world have embarked on the challenging but exciting task of building 16 designer synthetic chromosomes encompassing ~ 12 million base pairs of DNA.
 From 13-16 June 2017, international synthetic biology communities will convene in Singapore for SB7.</description>
     </item>
     
     <item>
-      <title>7th international yeast 2.0 and synthetic genomes conference</title>
-      <link>https://syntheticyeast.github.io/posts/7thinternational/</link>
+      <title>7th International Sc2.0 and synthetic genomes conference (2018)</title>
+      <link>https://syntheticyeast.github.io/news/2018-11-20-7thannual/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://syntheticyeast.github.io/posts/7thinternational/</guid>
+      <guid>https://syntheticyeast.github.io/news/2018-11-20-7thannual/</guid>
       <description>Synthetic Biology is widely believed to have the potential to make the most profound impact on the way we solve the many grand challenges facing humanity over the next 50 years. Conferences, such as this one, which bring together individuals involved in this field from around the world, are crucial to supercharge the intellectual horsepower required to ‘join the dots’.
 The 7th Yeast 2.0 and Synthetic Genomes conference, to be held in the spectacular city of Sydney in November 2018, will provide delegates the opportunity to hear speakers who have made or have the potential to make significant impacts in the synthetic biology world.</description>
     </item>
@@ -108,12 +80,23 @@ The 7th Yeast 2.0 and Synthetic Genomes conference, to be held in the spectacula
     </item>
     
     <item>
+      <title>Data and Finished Chromosomes</title>
+      <link>https://syntheticyeast.github.io/sc2-0/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://syntheticyeast.github.io/sc2-0/data/</guid>
+      <description>We have successfully synthesized seven chromosomes. Learn more about the design and experimental characterization of each finished chromosomes.
+ synII: Deep functional analysis of synII, Shen et al 2017 Science synIII: Total synthesis of a functional designer eukaryotic chromosome, Annaluru et al 2014 Science synV: &amp;ldquo;Perfect&amp;rdquo; designer chromosome V, Xie et al 2017 Science synVI: synVI and beyond, Mitchell et al Science 2017 synIXR: Synthetic chromosome arms function in yeast, Dymond et al 2011 Nature synX: Chemically synthetized chromosome X, Wu et al 2017 Science synXII: Engineering the ribosomal DNA in a megabase synthetic chromosome, Zhang et al 2017 Science  </description>
+    </item>
+    
+    <item>
       <title>Ethics &amp; Governance</title>
       <link>https://syntheticyeast.github.io/sc2-0/ethicsandgovernance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://syntheticyeast.github.io/sc2-0/ethicsandgovernance/</guid>
-      <description>A number of guidelines have been proposed in response to the ethics issues, including safety, raised by synthetic biology. Currently, the NIH Guidelines for Research Involving Recombinant DNA Molecules serves as the main document guiding NIH-funded synthetic biology research. These guidelines focus on DNA synthesis companies as the primary point of intervention; other guidelines focus on the researchers themselves. Given the large, international and interdisciplinary nature of the Sc2.0 project, with participants in academia, the commercial sector, and the DIY community, we felt that it was important to address ethics and policy issues in a systematic way across all sites, while remaining sensitive to local and national regulation.</description>
+      <description>A number of guidelines have been proposed in response to the ethics issues, including safety, raised by synthetic biology. Our published commentary describes the balance between freedom and responsibility in synthetic genomics: Sliva et al 2015 Genetics.
+Currently, the NIH Guidelines for Research Involving Recombinant DNA Molecules serves as the main document guiding NIH-funded synthetic biology research. These guidelines focus on DNA synthesis companies as the primary point of intervention; other guidelines focus on the researchers themselves.</description>
     </item>
     
     <item>
@@ -136,11 +119,11 @@ The Boeke group, now located at NYU (synI, synIII, synIV, synVI, synVIII, synIX)
     </item>
     
     <item>
-      <title>GP-W &amp; SC2.0 MEETING</title>
-      <link>https://syntheticyeast.github.io/posts/gpwsc20meeting/</link>
+      <title>GP-W &amp; SC2.0 Joint Meeting (2019)</title>
+      <link>https://syntheticyeast.github.io/news/2019-11-11-gpwsc20/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://syntheticyeast.github.io/posts/gpwsc20meeting/</guid>
+      <guid>https://syntheticyeast.github.io/news/2019-11-11-gpwsc20/</guid>
       <description>Registration is now open for the 2019 GP-WRITE &amp;amp; 8TH ANNUAL SC2.0 MEETING Hosted by the Institute for Systems Genetics at NYU Langone Health
 November 11-14 REGISTER
 Synthetic genomics is an emerging field driven by the rapidly decreasing cost of gene synthesis, scalable DNA assembly technologies, and the ever-increasing amount of genome sequence data. To date, convergence of these technologies has enabled total genome synthesis projects targeting viral, bacterial and yeast genomes.</description>
@@ -190,7 +173,8 @@ The synthetic DNA encoding the designer changes are introduced in a stepwise, �
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://syntheticyeast.github.io/sc2-0/relatedtechnology/</guid>
-      <description>This page has no content, but the drop down menu has a ‘sub-link’ to the SCRaMbLEing the genome section – I propose to change this link to go straight to the SCRaMbLE section and re-name it ‘Inducible Evolution by SCRaMbLE’</description>
+      <description>The Sc2.0 project has inspired related technologies and projects, many directly generated by Sc2.0 activities.
+ Synthetic Chromosome Recombination and Modification by LoxP-mediated Evolution &amp;ndash; SCRaMbLE &amp;ndash; using Sc2.0 to generate and explore combinatorial genome diversity The Dark Matter Project using synthetic biology to understand regulatory genomics and non-protein-coding DNA Science Across Virtual Institutes &amp;ndash; SAVI &amp;ndash; an NSF initiative for international collaborations Genome Project Write &amp;ndash; GP-write &amp;ndash; extending the concepts of Sc2.</description>
     </item>
     
     <item>
@@ -203,21 +187,11 @@ The synthetic DNA encoding the designer changes are introduced in a stepwise, �
     </item>
     
     <item>
-      <title>Sc2.0 Data</title>
-      <link>https://syntheticyeast.github.io/sc2-0/data/</link>
+      <title>Sc2.0 project hits new milestone: 5 additional chromosomes completed! (2017)</title>
+      <link>https://syntheticyeast.github.io/news/2017-03-01-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://syntheticyeast.github.io/sc2-0/data/</guid>
-      <description>We have successfully synthesized seven chromosomes. Check the following links to learn about details of the design and experiments of each finished chromosomes:
- synII synIII synV synVI synIXR synX synXII  </description>
-    </item>
-    
-    <item>
-      <title>Sc2.0 project hits new milestone: 5 additional chromosomes completed!</title>
-      <link>https://syntheticyeast.github.io/posts/newmilestone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://syntheticyeast.github.io/posts/newmilestone/</guid>
+      <guid>https://syntheticyeast.github.io/news/2017-03-01-science/</guid>
       <description>The global Sc2.0 team has built five new synthetic yeast chromosomes, meaning that 30 percent of S.cerevisiae’s genetic material has now been swapped out for engineered replacements. This is one of several findings of a package of seven papers published March 10 as the cover story for Science.
 An international team of more than 200 authors produced the latest work from the Synthetic Yeast Project (Sc2.0). By the end of this year, this international consortium hopes to have designed and built synthetic versions all 16 chromosomes – the structures that contain DNA – for S.</description>
     </item>
