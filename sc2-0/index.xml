@@ -12,8 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://syntheticyeast.github.io/sc2-0/data/</guid>
-      <description>We have successfully synthesized seven chromosomes. Learn more about the design and experimental characterization of each finished chromosomes.
- synII: Deep functional analysis of synII, Shen et al 2017 Science synIII: Total synthesis of a functional designer eukaryotic chromosome, Annaluru et al 2014 Science synV: &amp;ldquo;Perfect&amp;rdquo; designer chromosome V, Xie et al 2017 Science synVI: synVI and beyond, Mitchell et al Science 2017 synIXR: Synthetic chromosome arms function in yeast, Dymond et al 2011 Nature synX: Chemically synthetized chromosome X, Wu et al 2017 Science synXII: Engineering the ribosomal DNA in a megabase synthetic chromosome, Zhang et al 2017 Science  </description>
+      <description>Learn more about the design and experimental characterization of each finished chromosomes. The GFF3 version includes the annotation and the FASTA sequence record. The WT version is for the S288c reference strain and the synthetic version is the final design target.
+   Chromosome Teams WT GFF3  Synthetic GFF3 Publication     I NYU 230 MB chr01 181 MB syn01 (synI to come)   II Edinburgh + BGI 813 MB chr02 770 MB syn02 Deep functional analysis of synII, Shen et al 2017 Science   III JHU 317 MB chr03 272 MB syn03 Total synthesis of a functional designer eukaryotic chromosome, Annaluru et al 2014 Science   IV NYU + JGI 1532 MB chr04 1455 MB syn04 synIV to come   V Tianjin 577 MB chr05 536 MB syn05 &amp;ldquo;Perfect&amp;rdquo; designer chromosome V, Xie et al 2017 Science   VI JHU + NYU 270 MB chr06 243 MB syn06 synVI and beyond, Mitchell et al Science 2017   VII Edinburgh + BGI 1091 MB chr07 1029 MB syn07 synVII to come   VIII NYU 563 MB chr08 507 MB syn08 synVIII to come   IX JHU 440 MB chr09 406 MB syn09 IXR: Synthetic chromosome arms function in yeast, Dymond et al 2011 Nature   X Tianjin 746 MB chr10 707 MB syn10 Chemically synthetized chromosome X, Wu et al 2017 Science   XI Imperial College 667 MB chr11 660 MB syn11 synXI to come   XII Tsinghua 1078 MB chr12 999 MB syn12 Engineering the ribosomal DNA in a megabase synthetic chromosome, Zhang et al 2017 Science          XIII BGI 924 MB chr13 884 MB syn13 synXIII to come   XIV Macquarie + Australian Wine Research Inst 784 MB chr14 753 MB syn14 synIV to come   XV National U Singapore 1091 MB chr15 1048 MB syn15 synXV to come   XVI Macquarie 948 MB chr16 903 MB syn16 synXVI to come   neo-tRNA Edinburgh + Manchester   neo-tRNA to come    </description>
     </item>
     
     <item>
@@ -60,7 +60,7 @@ Currently, the NIH Guidelines for Research Involving Recombinant DNA Molecules s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://syntheticyeast.github.io/sc2-0/whyyeast/</guid>
-      <description>S. cerevisiae is the organism of choice for these studies because the genomic and related resources that are available are, quite simply, better than for any other organism on the planet. There are eukaryotes with smaller genomes, to be sure, but the extent of knowledge about these species pales by comparison to S. cerevisiae. This offers the opportunity to bring to bear the extensive universe of yeast systems biology information to the design of chromosomes for the organism.</description>
+      <description>The best explanation may be an apocryphal quote attributed to Benjamin Franklin: &amp;ldquo;Beer is proof that God loves us and wants us to be happy&amp;rdquo;. S. cerevisiae is the organism of choice for these studies because the genomic and related resources that are available are, quite simply, better than for any other organism on the planet. There are eukaryotes with smaller genomes, to be sure, but the extent of knowledge about these species pales by comparison to S.</description>
     </item>
     
   </channel>

@@ -2,16 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://syntheticyeast.github.io/</loc>
-    <lastmod>2021-11-11T07:35:08-05:00</lastmod>
-  </url><url>
-    <loc>https://syntheticyeast.github.io/software/</loc>
-    <lastmod>2021-11-11T07:35:08-05:00</lastmod>
-  </url><url>
     <loc>https://syntheticyeast.github.io/buildagenome/bag-students/</loc>
     <lastmod>2021-11-11T07:28:24-05:00</lastmod>
   </url><url>
     <loc>https://syntheticyeast.github.io/buildagenome/</loc>
+    <lastmod>2021-11-11T07:28:24-05:00</lastmod>
+  </url><url>
+    <loc>https://syntheticyeast.github.io/</loc>
     <lastmod>2021-11-11T07:28:24-05:00</lastmod>
   </url><url>
     <loc>https://syntheticyeast.github.io/buildagenome/bag-instructors/</loc>
@@ -66,6 +63,8 @@
     <loc>https://syntheticyeast.github.io/sc2-0/</loc>
   </url><url>
     <loc>https://syntheticyeast.github.io/news/2017-03-01-science/</loc>
+  </url><url>
+    <loc>https://syntheticyeast.github.io/software/</loc>
   </url><url>
     <loc>https://syntheticyeast.github.io/tags/</loc>
   </url><url>
