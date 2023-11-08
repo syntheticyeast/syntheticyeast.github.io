@@ -14,7 +14,8 @@
       
       <guid>https://syntheticyeast.github.io/buildagenome/bag-students/</guid>
       <description>BAG Students Below are pictures of some of our Build-a-Genome students.
-Johns Hopkins University Build-a-Genome Loyola University Maryland Build-a-Genome Tianjin University Build-a-Genome Build-a-Genome Roster  Abena Apaw Amanda Deliere Alexander Yue Alex Lamb Alexandra McMillan Aaron Moore Adithya Murali Ang Tu Yijie Xu Ann Robinson Anvesh Annadanam Alex Rhee Arjun Khakhar Lojo, Amanda R. Ashley Cook Ashwyn Sharma Allison Suarez Mathew, Alvin T. Andy Wong Apurva Yeluru Allen Yu Allen Min Zhang Brian Capaldo Brittany Shalloo Yizhi Cai Calvin Chang Charlotte Emmanuelle Floria Chachrit Khunsriraksakul Chris Montoya Christina Jacob Christopher Fernandez Calvin Yao Loong Lau Lanzillotta, Cristina M.</description>
+Johns Hopkins University inagual Build-a-Genome class Inaugural members: Raghav Ramachandran (BME), James DiCarlo (ChemBE), Allison Suarez (ChemBE), Alyson Nickols (ChemBE), Tejasvi Niranjan (Biology), Ben Lin (BME), John Chung (ChemBE), Avi Schuldenfrei (UMBC), with Sc2.0 director Jef Boeke and course instructor Jessica Dymond
+Johns Hopkins University Build-a-Genome Loyola University Maryland Build-a-Genome Tianjin University Build-a-Genome Build-a-Genome Roster  Abena Apaw Amanda Deliere Alexander Yue Alex Lamb Alexandra McMillan Aaron Moore Adithya Murali Ang Tu Yijie Xu Ann Robinson Anvesh Annadanam Alex Rhee Arjun Khakhar Lojo, Amanda R.</description>
     </item>
     
     <item>
@@ -86,7 +87,10 @@ The 7th Yeast 2.0 and Synthetic Genomes conference, to be held in the spectacula
       
       <guid>https://syntheticyeast.github.io/sc2-0/data/</guid>
       <description>Learn more about the design and experimental characterization of each finished chromosomes. The GFF3 version includes the annotation and the FASTA sequence record. The WT version is for the S288c reference strain and the synthetic version is the final design target.
-   Chromosome Teams WT GFF3  Synthetic GFF3 Publication     I NYU 230 MB chr01 181 MB syn01 (synI to come)   II Edinburgh + BGI 813 MB chr02 770 MB syn02 Deep functional analysis of synII, Shen et al 2017 Science   III JHU 317 MB chr03 272 MB syn03 Total synthesis of a functional designer eukaryotic chromosome, Annaluru et al 2014 Science   IV NYU + JGI 1532 MB chr04 1455 MB syn04 synIV to come   V Tianjin 577 MB chr05 536 MB syn05 &amp;ldquo;Perfect&amp;rdquo; designer chromosome V, Xie et al 2017 Science   VI JHU + NYU 270 MB chr06 243 MB syn06 synVI and beyond, Mitchell et al Science 2017   VII Edinburgh + BGI 1091 MB chr07 1029 MB syn07 synVII to come   VIII NYU 563 MB chr08 507 MB syn08 synVIII to come   IX JHU 440 MB chr09 406 MB syn09 IXR: Synthetic chromosome arms function in yeast, Dymond et al 2011 Nature   X Tianjin 746 MB chr10 707 MB syn10 Chemically synthetized chromosome X, Wu et al 2017 Science   XI Imperial College 667 MB chr11 660 MB syn11 synXI to come   XII Tsinghua 1078 MB chr12 999 MB syn12 Engineering the ribosomal DNA in a megabase synthetic chromosome, Zhang et al 2017 Science          XIII BGI 924 MB chr13 884 MB syn13 synXIII to come   XIV Macquarie + Australian Wine Research Inst 784 MB chr14 753 MB syn14 synIV to come   XV National U Singapore 1091 MB chr15 1048 MB syn15 synXV to come   XVI Macquarie 948 MB chr16 903 MB syn16 synXVI to come   neo-tRNA Edinburgh + Manchester   neo-tRNA to come    </description>
+Overview
+Reference sequence (17 MB sequence plus annotation): Saccharomyces cerevisiae S288C genome (version=R64-2-1) created by the Saccharomyces Genome Database
+Detailed Status (Nov 2023)
+   Chromosome Teams WT GFF3  Synthetic GFF3 Publication     I NYU 230 MB chr01 181 MB syn01 Synthetic chromosome fusion: effects on mitotic and meiotic genome structure and function (synI)   II Edinburgh + BGI 813 MB chr02 770 MB syn02 Deep functional analysis of synII, Shen et al 2017 Science   III JHU 317 MB chr03 272 MB syn03 Total synthesis of a functional designer eukaryotic chromosome, Annaluru et al 2014 Science (synIII)   IV NYU + JGI + TITech + SIAT 1532 MB chr04 1455 MB syn04 Manipulating the 3D organization of the largest synthetic yeast chromosome (synIV)   V Tianjin 577 MB chr05 536 MB syn05 &amp;ldquo;Perfect&amp;rdquo; designer chromosome V, Xie et al 2017 Science   VI JHU + NYU + GenScript 270 MB chr06 243 MB syn06 synVI and beyond, Mitchell et al Science 2017   VII Mancheter + BGI 1091 MB chr07 1029 MB syn07 Dissecting aneuploidy phenotypes by constructing Sc2.</description>
     </item>
     
     <item>
@@ -107,6 +111,15 @@ Currently, the NIH Guidelines for Research Involving Recombinant DNA Molecules s
       <guid>https://syntheticyeast.github.io/savi/exchange/</guid>
       <description>A variety of mentorship and training experiences, both virtual and physical, have taken place with SAVI support.
 The Boeke group, now located at NYU (synI, synIII, synIV, synVI, synVIII, synIX), has developed an ‘Sc2.0 Starter Package’ for distribution to all groups building synthetic chromosomes. This document details protocols relevant to the incorporation of synthetic DNA into yeast cells starting from ~10kb, specifically focusing on the workflow to integrate the first three megachunks of synVI.</description>
+    </item>
+    
+    <item>
+      <title>FAQ: Why build a synthetic yeast genome (2010)</title>
+      <link>https://syntheticyeast.github.io/news/2010-01-01-faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://syntheticyeast.github.io/news/2010-01-01-faq/</guid>
+      <description>What are the expected outcomes of this project? Since this type of experiment has never been done it is very difficult to predict the outcomes indeed! However, our work thus far shows that the strategy we have developed, taking into consideration both the designer alternations, all of which have been proven to be consistent with viability, as well as the assembly strategy, which allows regular fitness assessments of small segments of synthetic DNA, produces high fitness yeast.</description>
     </item>
     
     <item>
@@ -168,16 +181,6 @@ The synthetic DNA encoding the designer changes are introduced in a stepwise, �
     </item>
     
     <item>
-      <title>Related Technology</title>
-      <link>https://syntheticyeast.github.io/sc2-0/relatedtechnology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://syntheticyeast.github.io/sc2-0/relatedtechnology/</guid>
-      <description>The Sc2.0 project has inspired related technologies and projects, many directly generated by Sc2.0 activities.
- Synthetic Chromosome Recombination and Modification by LoxP-mediated Evolution &amp;ndash; SCRaMbLE &amp;ndash; using Sc2.0 to generate and explore combinatorial genome diversity The Dark Matter Project using synthetic biology to understand regulatory genomics and non-protein-coding DNA Science Across Virtual Institutes &amp;ndash; SAVI &amp;ndash; an NSF initiative for international collaborations Genome Project Write &amp;ndash; GP-write &amp;ndash; extending the concepts of Sc2.</description>
-    </item>
-    
-    <item>
       <title>Safety</title>
       <link>https://syntheticyeast.github.io/sc2-0/safety/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -194,6 +197,25 @@ The synthetic DNA encoding the designer changes are introduced in a stepwise, �
       <guid>https://syntheticyeast.github.io/news/2017-03-01-science/</guid>
       <description>The global Sc2.0 team has built five new synthetic yeast chromosomes, meaning that 30 percent of S.cerevisiae’s genetic material has now been swapped out for engineered replacements. This is one of several findings of a package of seven papers published March 10 as the cover story for Science.
 An international team of more than 200 authors produced the latest work from the Synthetic Yeast Project (Sc2.0). By the end of this year, this international consortium hopes to have designed and built synthetic versions all 16 chromosomes – the structures that contain DNA – for S.</description>
+    </item>
+    
+    <item>
+      <title>SCRaMbLE and Sc2.0-Related Technology</title>
+      <link>https://syntheticyeast.github.io/sc2-0/relatedtechnology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://syntheticyeast.github.io/sc2-0/relatedtechnology/</guid>
+      <description>The Sc2.0 project has inspired related technologies and projects, many directly generated by Sc2.0 activities.
+ Synthetic Chromosome Recombination and Modification by LoxP-mediated Evolution &amp;ndash; SCRaMbLE &amp;ndash; using Sc2.0 to generate and explore combinatorial genome diversity The Dark Matter Project using synthetic biology to understand regulatory genomics and non-protein-coding DNA Science Across Virtual Institutes &amp;ndash; SAVI &amp;ndash; an NSF initiative for international collaborations Genome Project Write &amp;ndash; GP-write &amp;ndash; extending the concepts of Sc2.</description>
+    </item>
+    
+    <item>
+      <title>tRNA neochromosome</title>
+      <link>https://syntheticyeast.github.io/sc2-0/trna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://syntheticyeast.github.io/sc2-0/trna/</guid>
+      <description>The tRNA neochromosome contains all 275 nuclear tRNA genes of yeast. Its design is based on rational principles and it will be the sole source of tRNA expression in the final Sc2.0 strain. A neochromosome is defined as a synthetic chromosome that has no natural counterpart but has all the characteristics of a chromosome within a cell. It has a copy number of one and replicates in a cell cycle dependent manner.</description>
     </item>
     
     <item>
