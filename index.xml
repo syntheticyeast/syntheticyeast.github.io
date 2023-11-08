@@ -81,6 +81,15 @@ The 7th Yeast 2.0 and Synthetic Genomes conference, to be held in the spectacula
     </item>
     
     <item>
+      <title>BioStudio</title>
+      <link>https://syntheticyeast.github.io/software/biostudio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://syntheticyeast.github.io/software/biostudio/</guid>
+      <description>Update for 2023  We recommend installing as an AWS EC2 instance using our AMI ami-dcb8f4b6 as described in our supplement from Richardson et al 2017 Science. Most of the notes below are standard procedures for launching an AWS EMI. The BioStudio-specific notes are highlighted as BioStudio-specific. Amazon provides a guide to launching an EC2 instance. We recommend an instance with resources equivalent to m5.xlarge or larger and configuring to accept SSH, HTTPS, and HTTP.</description>
+    </item>
+    
+    <item>
       <title>Data and Finished Chromosomes</title>
       <link>https://syntheticyeast.github.io/sc2-0/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
